@@ -33,4 +33,5 @@ npm start
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
 Give a star if you like it!
